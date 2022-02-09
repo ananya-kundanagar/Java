@@ -2,7 +2,7 @@ package com.ananya;
 
 import java.util.Scanner;
 
-public class Sum {
+public class Greeting {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter your Name: ");
