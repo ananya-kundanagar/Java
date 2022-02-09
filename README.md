@@ -2,7 +2,7 @@ This is a repository of my journey with java
 #
 This repo contains basic java programs.
 
-#Programs :
+# Programs :
 1. Write a program to print whether a number is even or odd, also take
 input from the user.
 2. Take name as input and print a greeting message for that particular name.
